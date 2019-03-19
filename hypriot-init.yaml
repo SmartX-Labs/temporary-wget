@@ -1,0 +1,15 @@
+--2019-03-19 04:58:04--  https://mirror.nm.gist.ac.kr/getHypriotConf
+Resolving mirror.nm.gist.ac.kr (mirror.nm.gist.ac.kr)... 210.125.84.249
+Connecting to mirror.nm.gist.ac.kr (mirror.nm.gist.ac.kr)|210.125.84.249|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://mirror.nm.gist.ac.kr/files/hypriotos-init.yaml [following]
+--2019-03-19 04:58:04--  https://mirror.nm.gist.ac.kr/files/hypriotos-init.yaml
+Reusing existing connection to mirror.nm.gist.ac.kr:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1063 (1.0K) [application/octet-stream]
+Saving to: ‘getHypriotConf’
+
+     0K .                                                     100% 78.2M=0s
+
+2019-03-19 04:58:04 (78.2 MB/s) - ‘getHypriotConf’ saved [1063/1063]
+
